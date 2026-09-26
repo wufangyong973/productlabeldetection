@@ -4,6 +4,7 @@
 !/.gitignore
 !/.github
 !/.github/**
+temp_auto_push.bat
 
 # Python build and test artifacts
 __pycache__/
@@ -11,3 +12,4 @@ __pycache__/
 .venv/
 .pytest_cache/
 .coverage
+branch_structure.json
